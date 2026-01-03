@@ -103,4 +103,3 @@ O Herói tem de saldo de {saldoVitorias} está no nível de {nivel}
 ```
 
 E permitir calcular o nível de forma interativa.
-```
