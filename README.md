@@ -1,4 +1,3 @@
-```markdown
 # 🛡️ Classificador de Nível de Herói - Calculadora de Partidas Rankeadas
 
 Este projeto foi desenvolvido em **JavaScript** para calcular o saldo de vitórias e derrotas de um jogador e classificar o nível do herói com base na quantidade de vitórias.  
